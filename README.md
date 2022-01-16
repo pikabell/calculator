@@ -4,7 +4,7 @@
 
 ### TO-DO ✅
 - [x] Complete basic html layout
-- [ ] Syling with css
+- [x] Styling with css
 - [ ] Adding functionality using js
 - [ ] Improve design and make page responsive
 - [ ] Add advanced mode with scientific calculations
