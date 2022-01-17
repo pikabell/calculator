@@ -1,0 +1,37 @@
+.gol {
+    width: 40px;
+    height: 40px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.row {
+    padding-top: 4px;
+}
+
+.tv {
+    font-size: 30px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.apple {
+    padding-top: 32px;
+}
+
+.ball {
+    text-align: center;
+}
+
+.cat {
+    padding-top: 32px;
+}
+
+.dog {
+    padding-bottom: 20px;
+    background-color: #E8E8E8;
+    width: 320px;
+    border-radius: 8px;
+}
