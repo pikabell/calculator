@@ -5,7 +5,7 @@
 ### TO-DO ✅
 - [x] Complete basic html layout
 - [x] Styling with css
-- [ ] Adding functionality using js
+- [x] Adding functionality using js
 - [ ] Improve design and make page responsive
 - [ ] Add advanced mode with scientific calculations
 - [ ] Implement complex operations in wasm using rust
